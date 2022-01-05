@@ -138,5 +138,11 @@
 		}
 	],
 	"ParameterGroups": [],
-	"Parts": []
+	"Parts": [],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		]
+	]
 }
